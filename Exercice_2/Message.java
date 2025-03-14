@@ -1,4 +1,4 @@
-package Exercice2;
+package Exercice_2;
 
 abstract class Message {
     public String contenu;

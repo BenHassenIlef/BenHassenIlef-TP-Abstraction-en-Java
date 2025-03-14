@@ -1,4 +1,4 @@
-package Exercice4;
+package Exercice_4;
 
 public class Chien extends Animal {
 
@@ -7,3 +7,4 @@ public class Chien extends Animal {
         System.out.println("Le chien aboie.");
     }
 }
+

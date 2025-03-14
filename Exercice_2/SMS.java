@@ -1,8 +1,6 @@
-package Exercice2;
+package Exercice_2;
 
-public class SMS extends Message{
-
-
+public class SMS extends Message {
     public SMS(String contenu) {
         super(contenu);
     }

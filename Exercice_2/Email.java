@@ -1,6 +1,6 @@
-package Exercice2;
+package Exercice_2;
 
-public class Email extends Message{
+public class Email extends Message {
 
     public Email(String contenu) {
         super(contenu);

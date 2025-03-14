@@ -1,4 +1,4 @@
-package Exercice4;
+package Exercice_4;
 
 public class Chat extends Animal {
     @Override

@@ -1,5 +1,4 @@
-package Exercice2;
-
+package Exercice_2;
 public class Main {
     public static void main(String[] args) {
         Message email =new Email("c'est un email");
